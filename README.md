@@ -1,12 +1,12 @@
 # liri-node-app
 
-##Please run `npm install` to install required dependencies.
+## Please run `npm install` to install required dependencies.
 
-##Usage:
+## Usage:
 `node liri.js <user command>`
 
-##:User Commands:
-+`my-tweets`
-+`spotify-this-song`
-+`movie-this`
-+`do-what-it-says`
+## :User Commands:
++ `my-tweets`
++ `spotify-this-song`
++ `movie-this`
++ `do-what-it-says`
