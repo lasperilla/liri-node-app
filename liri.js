@@ -20,7 +20,11 @@ var userCommand = process.argv[2];
 
 // log user command and timestamp in log.txt as header
 fs.appendFileSync('log.txt', "/////////////////////////////// " + '\n');
-fs.appendFileSync('log.txt', process.argv.slice(2).join(" ") + '\n');
+if (process.argv.length < 3) {
+    fs.appendFileSync('log.txt', "Prompt" + '\n');
+} else {
+    fs.appendFileSync('log.txt', process.argv.slice(2).join(" ") + '\n');
+}
 fs.appendFileSync('log.txt', moment().format('LLLL') + '\n');
 fs.appendFileSync('log.txt', "///////////////////////////////" + '\n');
 
@@ -43,8 +47,8 @@ switch (userCommand) {
         promptFunc();
         break;
     default:
-        // promptFunc();
-        console.log("-1")
+        console.log("Please choose a command.")
+        promptFunc();
         break;
 };
 
@@ -110,8 +114,12 @@ function movieThisFunc() {
             console.log("Starring: " + movie.Actors);
             console.log("Country: " + movie.Country);
             console.log("Language: " + movie.Language);
-            console.log("Rotten Tomatoes: " + movie.Ratings[1].Value);
-            console.log("IMDB Rating: " + movie.Ratings[0].Value);
+            if (movie.Ratings !== undefined && movie.Ratings[1] !== undefined) {
+                console.log("Rotten Tomatoes: " + movie.Ratings[1].Value);
+            };
+            if (movie.Ratings !== undefined && movie.Ratings[0] !== undefined) {
+                console.log("IMDB Rating: " + movie.Ratings[0].Value);
+            };
             console.log("IMDB Link: http://www.imdb.com/title/" + movie.imdbID + "/");
             console.log("");
 
@@ -148,8 +156,8 @@ function doWhatItSaysFunc() {
                     promptFunc();
                     break;
                 default:
-                    // promptFunc();
-                    console.log("-1")
+                    console.log("Please choose a command.")
+                    promptFunc();
                     break;
             };
         } else {
@@ -157,5 +165,56 @@ function doWhatItSaysFunc() {
         }
     });
 }; //end doWhatItSaysFunc
+
+function promptFunc() {
+    inquirer.prompt([{
+        type: "list",
+        message: "Select a command. Hit Enter to confirm your selection.",
+        choices: ["my-tweets", "spotify-this-song", "movie-this", "do-what-it-says", ">Exit"],
+        name: "selectedCommand"
+    }]).then(function(answers) {
+        fs.appendFileSync('log.txt', "Selected Command: " + answers.selectedCommand + '\n');
+        switch (answers.selectedCommand) {
+            case "my-tweets":
+                myTweetsFunc();
+                break;
+            case "spotify-this-song":
+                inquirer.prompt([{
+                    type: "input",
+                    message: "Please enter a song title:",
+                    name: "userSong"
+                }]).then(function(answers) {
+                    userQuery = answers.userSong;
+                    fs.appendFileSync('log.txt', "Song Searched: " + userQuery + '\n');
+                    fs.appendFileSync('log.txt', "-----Output Below-----"+'\n');
+                    spotifyThisSongFunc();
+                });
+                break;
+            case "movie-this":
+                inquirer.prompt([{
+                    type: "input",
+                    message: "Please enter a movie title:",
+                    name: "userMovie"
+                }]).then(function(answers) {
+                    userQuery = answers.userMovie;
+                    fs.appendFileSync('log.txt', "Movie Searched: " + userQuery + '\n');
+                    fs.appendFileSync('log.txt', "-----Output Below-----"+'\n');
+                    movieThisFunc();
+                });
+                break;
+            case "do-what-it-says":
+                doWhatItSaysFunc();
+                break;
+            case ">Exit":
+                console.log("Thank you, come again.")
+                break;
+            default:
+                console.log("Sorry, try again.")
+                promptFunc();
+                break;
+        };
+
+    });
+}; //end of promptFunc
 
 fs.appendFileSync('log.txt', '\n \n');
