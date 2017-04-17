@@ -5,7 +5,7 @@ _Please run_ `npm install` _to install required dependencies._
 ## Usage:
 `node liri.js <user command>`
 
-## :User Commands:
+## User Commands:
 + `my-tweets`
 + `spotify-this-song`
 + `movie-this`
