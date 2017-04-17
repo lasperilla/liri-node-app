@@ -1,6 +1,6 @@
 # liri-node-app
 
-_Please run `npm install` to install required dependencies._
+_Please run_ `npm install` _to install required dependencies._
 
 ## Usage:
 `node liri.js <user command>`
