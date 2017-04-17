@@ -24,7 +24,7 @@ if (process.argv.length < 3) {
     fs.appendFileSync('log.txt', "Prompt" + '\n');
 } else {
     fs.appendFileSync('log.txt', process.argv.slice(2).join(" ") + '\n');
-}
+};
 fs.appendFileSync('log.txt', moment().format('LLLL') + '\n');
 fs.appendFileSync('log.txt', "///////////////////////////////" + '\n');
 
@@ -47,7 +47,7 @@ switch (userCommand) {
         promptFunc();
         break;
     default:
-        console.log("Please choose a command.")
+        console.log("Please choose a command.");
         promptFunc();
         break;
 };
