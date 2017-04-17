@@ -65,7 +65,7 @@ function myTweetsFunc() {
                 // console.log(tweets)
                 /*because twitter doesn't like to follow RFC/IETF standards and separates YYYY from MM/DD
                 throwing moment.js errors. moves YYYY from end of str to middle, after DD*/
-                var tweetDate = tweets[i].created_at.slice(0, 11) + tweets[i].created_at.slice(-4) + tweets[i].created_at.slice(10, 26)
+                var tweetDate = tweets[i].created_at.slice(0, 11) + tweets[i].created_at.slice(-4) + tweets[i].created_at.slice(10, 26);
 
                 console.log("Date: " + moment(tweetDate, ["ddd MMM DD YYYY HH:mm:ss Z"]).format('LLL'));
                 console.log("Status: " + tweets[i].text);
@@ -74,8 +74,8 @@ function myTweetsFunc() {
                 console.log("");
             }
         } else {
-            console.log("Twitter err")
-            console.log(error)
+            console.log("Twitter err");
+            console.log(error);
         };
     });
 }; //end myTweetsFunc
@@ -124,8 +124,8 @@ function movieThisFunc() {
             console.log("");
 
         } else {
-            console.log("Movie err")
-            console.log(error)
+            console.log("Movie err");
+            console.log(error);
         };
     });
 }; //end movieThisFunc
@@ -156,7 +156,7 @@ function doWhatItSaysFunc() {
                     promptFunc();
                     break;
                 default:
-                    console.log("Please choose a command.")
+                    console.log("Please choose a command.");
                     promptFunc();
                     break;
             };
@@ -206,10 +206,10 @@ function promptFunc() {
                 doWhatItSaysFunc();
                 break;
             case ">Exit":
-                console.log("Thank you, come again.")
+                console.log("Thank you, come again.");
                 break;
             default:
-                console.log("Sorry, try again.")
+                console.log("Sorry, try again.");
                 promptFunc();
                 break;
         };
