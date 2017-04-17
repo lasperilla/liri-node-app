@@ -3,7 +3,7 @@
 _Please run_ `npm install` _to install required dependencies._
 
 ## Usage:
-`node liri.js` `_user command_`
+`node liri.js <user command>`
 
 ## User Commands:
 + `my-tweets`
