@@ -1173,3 +1173,624 @@ Artist: Montell Jordan
 Album: This Is How We Do It
 Preview: https://p.scdn.co/mp3-preview/d91fd875a55720a79cdc4848807d42c688ffd531?cid=null
 
+/////////////////////////////// 
+Prompt
+Monday, April 17, 2017 3:45 AM
+///////////////////////////////
+
+ 
+Please choose a command.
+Selected Command: my-tweets
+===============================
+Lastest 20 Tweets:
+===============================
+
+Date: December 11, 2016 7:11 PM
+Status: Nikon 105mm f1.4e - Ultimate Nikon Portrait lens? vs 85mm 1.4G https://t.co/elOx70Rnhm via @YouTube
+
+-------------------------------
+
+Date: November 17, 2016 12:23 AM
+Status: Speedlight Action with Peter Hurley https://t.co/piycyQxhc0 via @YouTube
+
+-------------------------------
+
+Date: October 20, 2016 3:36 PM
+Status: RT @NikonUSA: Even if someone is giving you a hard time on set, @carli_davidson says you learn to compromise, just not on your own ethics.…
+
+-------------------------------
+
+Date: October 11, 2016 9:13 PM
+Status: Adobe Lightroom Workflow Night Street Lights ライトルーム 現像ライブ 夜街 https://t.co/GCvuQuXwDU via @YouTube
+
+-------------------------------
+
+Date: September 20, 2016 11:26 AM
+Status: RT @BHPhotoVideo: Unveiled: BlackRapid Breathe Straps Provide Choice, Function, and Comfort https://t.co/YItkRBacGS https://t.co/Zcs0LTY1na
+
+-------------------------------
+
+Date: September 20, 2016 11:15 AM
+Status: RT @Perfume_Staff: Happy Birthday のっち！
+続々のお祝いメッセージありがとうございます！！
+のっちにとって素敵な1年になりますように☆
+(のっち誕生日のためにライゾマチームが特別に制作してくれた映像をバックにキメキメのっち) #prfm htt…
+
+-------------------------------
+
+Date: September 2, 2016 5:29 AM
+Status: RT @HYPEBEAST: .@google has reportedly canceled the interchangeable, modular smartphone Project Ara.
+https://t.co/9WTduFhmWg https://t.co/q…
+
+-------------------------------
+
+Date: August 29, 2016 3:17 PM
+Status: RT @BHPhotoVideo: 11 Tips For Focusing Your Camera At Night https://t.co/e6PcR9OIOA https://t.co/rXdz7ay9pX
+
+-------------------------------
+
+Date: August 2, 2016 11:50 AM
+Status: RT @OverwatchTXT: Genjis new sword design looks pretty cool https://t.co/yg91ivsigO
+
+-------------------------------
+
+Date: July 25, 2016 1:52 PM
+Status: RT @MOGRAstaff: 7/26~8/14までの期間限定！
+平日と週末の営業時間内に限り #MOGRA のポケストップにルアーモジュールを使用していただいた方に¥500までのドリンクを一杯プレゼント！ぜひご利用下さい！
+#PokemonGO #ポケモンGO https:…
+
+-------------------------------
+
+Date: July 16, 2016 7:33 PM
+Status: New York Japan Society Film Festival #japancuts #前田敦子 #ニューヨーク https://t.co/PMOLoIgTX3
+
+-------------------------------
+
+Date: July 7, 2016 8:50 PM
+Status: RT @aliciakeys: #currentmood 💔 #AltonSterling #PhilandoCastile #BlackLivesMatter https://t.co/jp47fdNzKv
+
+-------------------------------
+
+Date: June 23, 2016 12:59 PM
+Status: RT @WhiteHouse: "If we’re going to raise our kids in a safer, more loving world, we need to speak up for it." —@POTUS #NoBillNoBreak https:…
+
+-------------------------------
+
+Date: June 21, 2016 5:20 PM
+Status: RT @Nihongogo: An Interview with Eir Aoi on Her First American Solo Concert in New York City https://t.co/s7tKaPCk28
+
+-------------------------------
+
+Date: June 21, 2016 5:20 PM
+Status: RT @mangetsu_m: An Interview with Eir Aoi on Her First American Solo Concert in New York City - Nihongogo https://t.co/haAKfx0eNK
+
+-------------------------------
+
+Date: June 21, 2016 5:45 AM
+Status: RT @gacckey_male: An Interview with Eir Aoi on Her First American Solo Concert in New York City - Nihongogo https://t.co/oi0XQ2Vdk7
+
+-------------------------------
+
+Date: June 21, 2016 3:30 AM
+Status: An Interview with Eir Aoi on Her 1st American Solo Concert in NYC - Nihongogo https://t.co/MmcGLn1eg4 #藍井エイル #EirAoi https://t.co/PfQYm0eOo4
+
+-------------------------------
+
+Date: June 16, 2016 10:39 PM
+Status: BREAKING NEWS: Apple iOS10 will SHOOT RAW https://t.co/vWbQEV0ctw via @YouTube
+
+-------------------------------
+
+Date: June 12, 2016 1:26 PM
+Status: Birthday girl https://t.co/FureMuTheQ
+
+-------------------------------
+
+Date: May 20, 2016 12:49 PM
+Status: RT @Nihongogo: Win Tickets to See Eir Aoi to Perform at New York’s Gramercy Theater on May 25th #EirAoi - https://t.co/8ZjQ7zmp25 https://t…
+
+-------------------------------
+
+/////////////////////////////// 
+Prompt
+Monday, April 17, 2017 3:45 AM
+///////////////////////////////
+
+ 
+Please choose a command.
+Selected Command: spotify-this-song
+Song Searched: 
+-----Output Below-----
+Track Name: The Sign
+Artist: Ace of Base
+Album: The Sign (US Album) [Remastered]
+Preview: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=null
+
+/////////////////////////////// 
+Prompt
+Monday, April 17, 2017 3:46 AM
+///////////////////////////////
+
+ 
+Please choose a command.
+Selected Command: my-tweets
+===============================
+Lastest 20 Tweets:
+===============================
+
+Date: December 11, 2016 7:11 PM
+Status: Nikon 105mm f1.4e - Ultimate Nikon Portrait lens? vs 85mm 1.4G https://t.co/elOx70Rnhm via @YouTube
+
+-------------------------------
+
+Date: November 17, 2016 12:23 AM
+Status: Speedlight Action with Peter Hurley https://t.co/piycyQxhc0 via @YouTube
+
+-------------------------------
+
+Date: October 20, 2016 3:36 PM
+Status: RT @NikonUSA: Even if someone is giving you a hard time on set, @carli_davidson says you learn to compromise, just not on your own ethics.…
+
+-------------------------------
+
+Date: October 11, 2016 9:13 PM
+Status: Adobe Lightroom Workflow Night Street Lights ライトルーム 現像ライブ 夜街 https://t.co/GCvuQuXwDU via @YouTube
+
+-------------------------------
+
+Date: September 20, 2016 11:26 AM
+Status: RT @BHPhotoVideo: Unveiled: BlackRapid Breathe Straps Provide Choice, Function, and Comfort https://t.co/YItkRBacGS https://t.co/Zcs0LTY1na
+
+-------------------------------
+
+Date: September 20, 2016 11:15 AM
+Status: RT @Perfume_Staff: Happy Birthday のっち！
+続々のお祝いメッセージありがとうございます！！
+のっちにとって素敵な1年になりますように☆
+(のっち誕生日のためにライゾマチームが特別に制作してくれた映像をバックにキメキメのっち) #prfm htt…
+
+-------------------------------
+
+Date: September 2, 2016 5:29 AM
+Status: RT @HYPEBEAST: .@google has reportedly canceled the interchangeable, modular smartphone Project Ara.
+https://t.co/9WTduFhmWg https://t.co/q…
+
+-------------------------------
+
+Date: August 29, 2016 3:17 PM
+Status: RT @BHPhotoVideo: 11 Tips For Focusing Your Camera At Night https://t.co/e6PcR9OIOA https://t.co/rXdz7ay9pX
+
+-------------------------------
+
+Date: August 2, 2016 11:50 AM
+Status: RT @OverwatchTXT: Genjis new sword design looks pretty cool https://t.co/yg91ivsigO
+
+-------------------------------
+
+Date: July 25, 2016 1:52 PM
+Status: RT @MOGRAstaff: 7/26~8/14までの期間限定！
+平日と週末の営業時間内に限り #MOGRA のポケストップにルアーモジュールを使用していただいた方に¥500までのドリンクを一杯プレゼント！ぜひご利用下さい！
+#PokemonGO #ポケモンGO https:…
+
+-------------------------------
+
+Date: July 16, 2016 7:33 PM
+Status: New York Japan Society Film Festival #japancuts #前田敦子 #ニューヨーク https://t.co/PMOLoIgTX3
+
+-------------------------------
+
+Date: July 7, 2016 8:50 PM
+Status: RT @aliciakeys: #currentmood 💔 #AltonSterling #PhilandoCastile #BlackLivesMatter https://t.co/jp47fdNzKv
+
+-------------------------------
+
+Date: June 23, 2016 12:59 PM
+Status: RT @WhiteHouse: "If we’re going to raise our kids in a safer, more loving world, we need to speak up for it." —@POTUS #NoBillNoBreak https:…
+
+-------------------------------
+
+Date: June 21, 2016 5:20 PM
+Status: RT @Nihongogo: An Interview with Eir Aoi on Her First American Solo Concert in New York City https://t.co/s7tKaPCk28
+
+-------------------------------
+
+Date: June 21, 2016 5:20 PM
+Status: RT @mangetsu_m: An Interview with Eir Aoi on Her First American Solo Concert in New York City - Nihongogo https://t.co/haAKfx0eNK
+
+-------------------------------
+
+Date: June 21, 2016 5:45 AM
+Status: RT @gacckey_male: An Interview with Eir Aoi on Her First American Solo Concert in New York City - Nihongogo https://t.co/oi0XQ2Vdk7
+
+-------------------------------
+
+Date: June 21, 2016 3:30 AM
+Status: An Interview with Eir Aoi on Her 1st American Solo Concert in NYC - Nihongogo https://t.co/MmcGLn1eg4 #藍井エイル #EirAoi https://t.co/PfQYm0eOo4
+
+-------------------------------
+
+Date: June 16, 2016 10:39 PM
+Status: BREAKING NEWS: Apple iOS10 will SHOOT RAW https://t.co/vWbQEV0ctw via @YouTube
+
+-------------------------------
+
+Date: June 12, 2016 1:26 PM
+Status: Birthday girl https://t.co/FureMuTheQ
+
+-------------------------------
+
+Date: May 20, 2016 12:49 PM
+Status: RT @Nihongogo: Win Tickets to See Eir Aoi to Perform at New York’s Gramercy Theater on May 25th #EirAoi - https://t.co/8ZjQ7zmp25 https://t…
+
+-------------------------------
+
+/////////////////////////////// 
+Prompt
+Monday, April 17, 2017 3:46 AM
+///////////////////////////////
+
+ 
+Please choose a command.
+Selected Command: spotify-this-song
+Song Searched: careless whisper
+-----Output Below-----
+Track Name: Careless Whisper
+Artist: George Michael
+Album: Ladies And Gentlemen... The Best Of George Michael
+Preview: https://p.scdn.co/mp3-preview/75d3d091213d60d9f3ed2c0698b846177076b0d0?cid=null
+
+/////////////////////////////// 
+Prompt
+Monday, April 17, 2017 3:46 AM
+///////////////////////////////
+
+ 
+Please choose a command.
+Selected Command: movie-this
+Movie Searched: your name
+-----Output Below-----
+Title: Your Name
+Year: 2016
+Rated: PG
+Plot: Mitsuha is the daughter of the mayor of a small mountain town. She's a straightforward high school girl who lives with her sister and her grandmother and has no qualms about letting it be known that she's uninterested in Shinto rituals or helping her father's electoral campaign. Instead she dreams of leaving the boring town and trying her luck in Tokyo. Taki is a high school boy in Tokyo who works part-time in an Italian restaurant and aspires to become an architect or an artist. Every night he has a strange dream where he becomes...a high school girl in a small mountain town.
+-------------------------------
+Starring: Ryûnosuke Kamiki, Mone Kamishiraishi, Ryô Narita, Aoi Yuki
+Country: Japan
+Language: Japanese, Chinese
+Rotten Tomatoes: 97%
+IMDB Rating: 8.6/10
+IMDB Link: http://www.imdb.com/title/tt5311514/
+
+/////////////////////////////// 
+movie-this funky forrest
+Monday, April 17, 2017 3:47 AM
+///////////////////////////////
+
+ 
+Title: undefined
+Year: undefined
+Rated: undefined
+Plot: undefined
+-------------------------------
+Starring: undefined
+Country: undefined
+Language: undefined
+IMDB Link: http://www.imdb.com/title/undefined/
+
+/////////////////////////////// 
+movie-this funky forest
+Monday, April 17, 2017 3:47 AM
+///////////////////////////////
+
+ 
+Title: Funky Forest: The First Contact
+Year: 2005
+Rated: N/A
+Plot: An outrageous collection of surreal, short attention span non-sequiturs largely revolving around Guitar Brother, his randy older sibling, and the pair's portly Caucasian brother.
+-------------------------------
+Starring: Andrew Alfieri, Hideaki Anno, Moyoco Anno, Tadanobu Asano
+Country: Japan
+Language: Japanese, Mandarin, English
+IMDB Rating: 6.9/10
+IMDB Link: http://www.imdb.com/title/tt0451829/
+
+/////////////////////////////// 
+movie-this the fp
+Monday, April 17, 2017 3:48 AM
+///////////////////////////////
+
+ 
+Title: The FP
+Year: 2011
+Rated: R
+Plot: In a dystopian future, two rival gangs fight for control of Frazier Park which for all intents purposes is the remaining inhabited world. Gangs settle disputes for leadership by playing "Beat Beat Revelation", a deadly version of a popular dance video game. The power of the land has shifted leaving the local alcoholics to become meth addicts and worse. Can JTRO overcome the obstacles necessary to redeem Frazier Park? Competitive dance-fight video game "Beat-Beat Revolution."
+-------------------------------
+Starring: Jason Trost, Brandon Barrera, Art Hsu, Caitlyn Folley
+Country: USA
+Language: English
+Rotten Tomatoes: 48%
+IMDB Rating: 5.6/10
+IMDB Link: http://www.imdb.com/title/tt1296373/
+
+/////////////////////////////// 
+Prompt
+Monday, April 17, 2017 7:33 PM
+///////////////////////////////
+
+ 
+Please choose a command.
+Selected Command: spotify-this-song
+Song Searched: humble
+-----Output Below-----
+Track Name: HUMBLE.
+Artist: Kendrick Lamar
+Album: HUMBLE.
+Preview: https://p.scdn.co/mp3-preview/fc742be837a063f14da373a7f41f1189b2e9f99a?cid=null
+
+/////////////////////////////// 
+Prompt
+Monday, April 17, 2017 7:33 PM
+///////////////////////////////
+
+ 
+Please choose a command.
+Selected Command: spotify-this-song
+Song Searched: mr lawrence
+-----Output Below-----
+Track Name: Merry Christmas Mr. Lawrence
+Artist: David West
+Album: Ryuichi Sakamoto Interpretations
+Preview: https://p.scdn.co/mp3-preview/ae96c4ca2c83ab5b9d7ffc8ecccc148d868c26c3?cid=null
+
+/////////////////////////////// 
+Prompt
+Monday, April 17, 2017 7:33 PM
+///////////////////////////////
+
+ 
+Please choose a command.
+Selected Command: spotify-this-song
+Song Searched: mr lawrence utada
+-----Output Below-----
+Track Name: Merry Christmas Mr. Lawrence - FYI
+Artist: Utada
+Album: This Is The One
+Preview: https://p.scdn.co/mp3-preview/206e578e4f9ac46fdf01ce644a3b3143ffeaf976?cid=null
+
+/////////////////////////////// 
+Prompt
+Monday, April 17, 2017 8:04 PM
+///////////////////////////////
+
+ 
+Please choose a command.
+Selected Command: my-tweets
+===============================
+Lastest 20 Tweets:
+===============================
+
+Date: April 17, 2017 7:50 PM
+Status: Gorillaz Pop Up Haunted House in NYC https://t.co/QHE3CGxwTJ
+
+-------------------------------
+
+Date: April 17, 2017 7:45 PM
+Status: Check out the deployment of our group project, Here We Go! It's a travel planning companion web app. https://t.co/NjebEZEDbu
+
+-------------------------------
+
+Date: December 11, 2016 7:11 PM
+Status: Nikon 105mm f1.4e - Ultimate Nikon Portrait lens? vs 85mm 1.4G https://t.co/elOx70Rnhm via @YouTube
+
+-------------------------------
+
+Date: November 17, 2016 12:23 AM
+Status: Speedlight Action with Peter Hurley https://t.co/piycyQxhc0 via @YouTube
+
+-------------------------------
+
+Date: October 20, 2016 3:36 PM
+Status: RT @NikonUSA: Even if someone is giving you a hard time on set, @carli_davidson says you learn to compromise, just not on your own ethics.…
+
+-------------------------------
+
+Date: October 11, 2016 9:13 PM
+Status: Adobe Lightroom Workflow Night Street Lights ライトルーム 現像ライブ 夜街 https://t.co/GCvuQuXwDU via @YouTube
+
+-------------------------------
+
+Date: September 20, 2016 11:26 AM
+Status: RT @BHPhotoVideo: Unveiled: BlackRapid Breathe Straps Provide Choice, Function, and Comfort https://t.co/YItkRBacGS https://t.co/Zcs0LTY1na
+
+-------------------------------
+
+Date: September 20, 2016 11:15 AM
+Status: RT @Perfume_Staff: Happy Birthday のっち！
+続々のお祝いメッセージありがとうございます！！
+のっちにとって素敵な1年になりますように☆
+(のっち誕生日のためにライゾマチームが特別に制作してくれた映像をバックにキメキメのっち) #prfm htt…
+
+-------------------------------
+
+Date: September 2, 2016 5:29 AM
+Status: RT @HYPEBEAST: .@google has reportedly canceled the interchangeable, modular smartphone Project Ara.
+https://t.co/9WTduFhmWg https://t.co/q…
+
+-------------------------------
+
+Date: August 29, 2016 3:17 PM
+Status: RT @BHPhotoVideo: 11 Tips For Focusing Your Camera At Night https://t.co/e6PcR9OIOA https://t.co/rXdz7ay9pX
+
+-------------------------------
+
+Date: August 2, 2016 11:50 AM
+Status: RT @OverwatchTXT: Genjis new sword design looks pretty cool https://t.co/yg91ivsigO
+
+-------------------------------
+
+Date: July 25, 2016 1:52 PM
+Status: RT @MOGRAstaff: 7/26~8/14までの期間限定！
+平日と週末の営業時間内に限り #MOGRA のポケストップにルアーモジュールを使用していただいた方に¥500までのドリンクを一杯プレゼント！ぜひご利用下さい！
+#PokemonGO #ポケモンGO https:…
+
+-------------------------------
+
+Date: July 16, 2016 7:33 PM
+Status: New York Japan Society Film Festival #japancuts #前田敦子 #ニューヨーク https://t.co/PMOLoIgTX3
+
+-------------------------------
+
+Date: July 7, 2016 8:50 PM
+Status: RT @aliciakeys: #currentmood 💔 #AltonSterling #PhilandoCastile #BlackLivesMatter https://t.co/jp47fdNzKv
+
+-------------------------------
+
+Date: June 23, 2016 12:59 PM
+Status: RT @WhiteHouse: "If we’re going to raise our kids in a safer, more loving world, we need to speak up for it." —@POTUS #NoBillNoBreak https:…
+
+-------------------------------
+
+Date: June 21, 2016 5:20 PM
+Status: RT @Nihongogo: An Interview with Eir Aoi on Her First American Solo Concert in New York City https://t.co/s7tKaPCk28
+
+-------------------------------
+
+Date: June 21, 2016 5:20 PM
+Status: RT @mangetsu_m: An Interview with Eir Aoi on Her First American Solo Concert in New York City - Nihongogo https://t.co/haAKfx0eNK
+
+-------------------------------
+
+Date: June 21, 2016 5:45 AM
+Status: RT @gacckey_male: An Interview with Eir Aoi on Her First American Solo Concert in New York City - Nihongogo https://t.co/oi0XQ2Vdk7
+
+-------------------------------
+
+Date: June 21, 2016 3:30 AM
+Status: An Interview with Eir Aoi on Her 1st American Solo Concert in NYC - Nihongogo https://t.co/MmcGLn1eg4 #藍井エイル #EirAoi https://t.co/PfQYm0eOo4
+
+-------------------------------
+
+Date: June 16, 2016 10:39 PM
+Status: BREAKING NEWS: Apple iOS10 will SHOOT RAW https://t.co/vWbQEV0ctw via @YouTube
+
+-------------------------------
+
+/////////////////////////////// 
+Prompt
+Monday, April 17, 2017 8:04 PM
+///////////////////////////////
+
+ 
+Please choose a command.
+Selected Command: do-what-it-says
+Track Name: Undefined
+Artist: William Ryan Fritch
+Album: New Words for Old Wounds
+Preview: https://p.scdn.co/mp3-preview/493d52ddfb17e87e5a1624530f6db44bf5bfda98?cid=null
+
+/////////////////////////////// 
+Prompt
+Monday, April 17, 2017 8:06 PM
+///////////////////////////////
+
+ 
+Please choose a command.
+Selected Command: do-what-it-says
+
+Track Name: Undefined
+Artist: William Ryan Fritch
+Album: New Words for Old Wounds
+Preview: https://p.scdn.co/mp3-preview/493d52ddfb17e87e5a1624530f6db44bf5bfda98?cid=null
+
+/////////////////////////////// 
+Prompt
+Monday, April 17, 2017 8:06 PM
+///////////////////////////////
+
+ 
+Please choose a command.
+Selected Command: do-what-it-says
+Track Name: The Sign
+Artist: Ace of Base
+Album: The Sign (US Album) [Remastered]
+Preview: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=null
+
+/////////////////////////////// 
+Prompt
+Monday, April 17, 2017 8:06 PM
+///////////////////////////////
+
+ 
+Please choose a command.
+Selected Command: movie-this
+Movie Searched: kindergarten cop
+-----Output Below-----
+Title: Kindergarten Cop
+Year: 1990
+Rated: PG-13
+Plot: John Kimble is a tough city cop who's been on the trail of drug dealer Cullen Crisp for years. He finally tracks Crisp down but it seems the only person that can testify against him is his ex-wife. The problem is she's disappeared and all Kimble knows is the name of the school in Oregon where her son attends. When things don't quite go to plan, Kimble finds he has to go undercover on his toughest assignment yet - Kindergarten teacher!
+-------------------------------
+Starring: Arnold Schwarzenegger, Penelope Ann Miller, Pamela Reed, Linda Hunt
+Country: USA
+Language: English, Spanish
+Rotten Tomatoes: 51%
+IMDB Rating: 6.0/10
+IMDB Link: http://www.imdb.com/title/tt0099938/
+
+/////////////////////////////// 
+do-what-it-says
+Monday, April 17, 2017 8:08 PM
+///////////////////////////////
+
+ 
+Track Name: The Sign
+Artist: Ace of Base
+Album: The Sign (US Album) [Remastered]
+Preview: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=null
+
+/////////////////////////////// 
+do-what-it-says
+Monday, April 17, 2017 8:09 PM
+///////////////////////////////
+
+ 
+/////////////////////////////// 
+do-what-it-says
+Monday, April 17, 2017 8:09 PM
+///////////////////////////////
+
+ 
+Track Name: HUMBLE.
+Artist: Kendrick Lamar
+Album: HUMBLE.
+Preview: https://p.scdn.co/mp3-preview/fc742be837a063f14da373a7f41f1189b2e9f99a?cid=null
+
+/////////////////////////////// 
+do-what-it-says
+Monday, April 17, 2017 8:11 PM
+///////////////////////////////
+
+ 
+Title: Men in Black
+Year: 1997
+Rated: PG-13
+Plot: Based off of the comic book. Unbeknownst to other people, there is a private agency code named MiB. This agency is some kind of extra terrestrial surveillance corporation. Then, one of the agency's finest men only going by the name "K" (Tommy Lee Jones) , is recruiting for a new addition to the agency. He has chosen James Edwards (Will Smith) of the N.Y.P.D. Then, one day, a flying saucer crashes into Earth. This was an alien a part of the "Bug" race. He takes the body of a farmer (Vincent D'Onofrio) and heads to New York. He is searching for a super energy source called "The Galaxy". Now, Agents J and K must stop the bug before it can escape with the galaxy.
+-------------------------------
+Starring: Tommy Lee Jones, Will Smith, Linda Fiorentino, Vincent D'Onofrio
+Country: USA
+Language: English, Spanish
+Rotten Tomatoes: 92%
+IMDB Rating: 7.3/10
+IMDB Link: http://www.imdb.com/title/tt0119654/
+
+/////////////////////////////// 
+do-what-it-says
+Monday, April 17, 2017 8:16 PM
+///////////////////////////////
+
+ 
+Track Name: Pork And Beans
+Artist: Weezer
+Album: Weezer (Red Album)
+Preview: https://p.scdn.co/mp3-preview/1d035bfe30b0efcc08fafe207c8f247c4e4a0b5e?cid=null
+

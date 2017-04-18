@@ -142,11 +142,10 @@ function doWhatItSaysFunc() {
                     myTweetsFunc();
                     break;
                 case "spotify-this-song":
-                    var userQuery = process.argv.slice(3).join(" ");
                     spotifyThisSongFunc();
                     break;
                 case "movie-this":
-                    var userQuery = process.argv.slice(3).join("+");
+                	userQuery = userQuery.split(" ").join("+");
                     movieThisFunc();
                     break;
                 case "do-what-it-says":
